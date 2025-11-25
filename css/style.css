@@ -50,7 +50,7 @@ body {
 /* ============================= HERO SECTION ============================= */
 
 .hero {
-  background: url(../img/cc.jpg) center/cover no-repeat;
+  background: url(/img/cc.jpg) center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -103,7 +103,7 @@ body {
 /* ============================= ABOUT ============================= */
 
 .about {
-  background-image: url(../img/bc.jpg);
+  background-image: url(/img/bc.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -233,4 +233,5 @@ footer {
     max-width: 100%;
   }
 }
+
 
